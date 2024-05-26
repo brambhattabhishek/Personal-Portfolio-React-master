@@ -27,7 +27,7 @@ const Portfolio = () => {
           <a href="https://gregarious-eclair-fb840c.netlify.app"><img src={Sidebar} alt="" /></a>
         </SwiperSlide>
         <SwiperSlide>
-          <a href = " https://fastidious-klepon-823e9f.netlify.app"><img src={Ecommerce} alt="" /></a>
+          <a href = "https://superlative-trifle-ec4907.netlify.app"><img src={Ecommerce} alt="" /></a>
         </SwiperSlide>
         <SwiperSlide>
           <a href ="https://fastidious-klepon-823e9f.netlify.app"><img src={MusicApp} alt="" /></a>
